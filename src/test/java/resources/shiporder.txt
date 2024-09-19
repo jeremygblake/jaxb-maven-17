@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><shiporder orderid="1"><orderperson>Jeremy Blake</orderperson><shipto><name>Person 2</name><address>1234 Something Lane</address><city>San Diego</city><country>US</country></shipto></shiporder>
